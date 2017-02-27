@@ -1,0 +1,59 @@
+.site-footer
+{
+	background-color:#222;
+	color:#fff;
+	text-align: center;
+	margin-left:330px;
+	margin-right:330px;
+	padding-bottom: 10px;
+}
+
+.bottom-footer
+{
+	text-align: center;
+	border-top: 2px solid;
+	margin-top:25px;
+	padding-top: 5px;
+}
+
+input[type="text"], .btn {
+	border-radius: 0;
+	border: 2px solid #ddd;
+	padding: 15px;
+	height: 40px;
+}
+
+.btn {
+	padding-top: 0.5em;
+}
+
+.glyphicon-arrow-right {
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	padding-top: 8px;
+	color: #fff;
+	background-color: #222;
+}
+
+.navbar-nav ul {
+	list-style-type: none;
+}
+
+.navbar-nav ul li {
+	display: inline;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.active{
+		background-color: #000;
+}
+
+.navbar-nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
